@@ -8,7 +8,6 @@ A self-hosted, browser-based utility for file conversion, OCR and audio transcri
 
 ![Screenshot](screenshot.png)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/loredcast)
 
 
 
@@ -172,4 +171,6 @@ https://github.com/LoredCast/filewizard/wiki
 
 Consider spending 30 seconds on the [» usage survey «](https://app.youform.com/forms/sdlb6mto) to help improve the app and suggest changes!
 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/loredcast)
 ---
